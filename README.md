@@ -1,4 +1,4 @@
-Doxygen Code Documentation :  http://wavescholar.github.io/klImageCore/inherits.html
+Doxygen Code Documentation :  http://brucebcampbell.github.io/klImageCore/inherits.html
 
 This repository contains a high performance image processing framework. Intel IPP libraries are leveraged where possible. There are a number of image codecs including BigTiff.  Ues the solution in the wavescholar SolutionFiles repository to build the libraries. Project files are provided for Visual Studio 2010 with Intel Compiler XE2011 for C++ and Fortran libraries. 
 
