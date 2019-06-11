@@ -1,0 +1,6 @@
+<map id="AperioFileManager::createXMLMap" name="AperioFileManager::createXMLMap">
+<area shape="rect" id="node2" href="$class_aperio_file_manager.html#a4cd2778a6e2a129879e621d1ee25d0bc" title="AperioFileManager::\lgetMetadata" alt="" coords="192,71,331,112"/>
+<area shape="rect" id="node3" href="$class_aperio_file_manager.html#a6a3dde5d29d68ca127fc075dadbe32cb" title="AperioFileManager::\lgetLabelImage" alt="" coords="379,5,517,47"/>
+<area shape="rect" id="node4" href="$class_aperio_file_manager.html#aa21b32bb1c543d1a897a22139df4764c" title="AperioFileManager::\lgetWSIImage" alt="" coords="379,71,517,112"/>
+<area shape="rect" id="node5" href="$class_aperio_file_manager.html#a1b0a68740e1629198f9051273df4676a" title="AperioFileManager::\lprintMetadata" alt="" coords="379,136,517,177"/>
+</map>

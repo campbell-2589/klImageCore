@@ -1,0 +1,7 @@
+<map id="klProcessImage::klImageProcessor::Process" name="klProcessImage::klImageProcessor::Process">
+<area shape="rect" id="node2" href="$kl__image__processing__functors_8cpp.html#af9f9682d7221b6e3b2398b0a84bccf73" title="Dithering" alt="" coords="280,107,353,134"/>
+<area shape="rect" id="node3" href="$classkl_image_file_source_factory.html#aa516d1c83f88eeb193ef9e1ecc7bba97" title="klImageFileSourceFactory\l::getFileSource" alt="" coords="401,5,575,47"/>
+<area shape="rect" id="node4" href="$classkl_image_file_source.html#ab0ada36f7278604f20c7ba0c2246ac77" title="klImageFileSource::\lqueryImage" alt="" coords="419,71,557,112"/>
+<area shape="rect" id="node5" href="$kl__ppm__image__io_8h.html#a948651f4c9ecb7521a3833b15176b22c" title="write_ppm" alt="" coords="447,137,529,163"/>
+<area shape="rect" id="node6" href="$kl__ppm__image__io_8h.html#a0b224a57ad9e72bcb2d6b49051568d4c" title="write_ppm_single_band" alt="" coords="409,187,567,214"/>
+</map>

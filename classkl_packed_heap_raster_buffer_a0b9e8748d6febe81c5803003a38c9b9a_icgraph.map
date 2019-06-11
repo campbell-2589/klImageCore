@@ -1,0 +1,16 @@
+<map id="klPackedHeapRasterBuffer::buffer" name="klPackedHeapRasterBuffer::buffer">
+<area shape="rect" id="node2" href="$classkl_packed_heap_raster_buffer.html#a26cf55e05ffcf9b0f26969eea152642e" title="klPackedHeapRasterBuffer\l::klPackedHeapRasterBuffer" alt="" coords="237,5,423,47"/>
+<area shape="rect" id="node3" href="$kl__image__processing__functors_8cpp.html#a9d7684733c3ca2f1e3d28a22fdc7deac" title="ImageWork" alt="" coords="286,71,374,98"/>
+<area shape="rect" id="node5" href="$kl_big_tiff_file_manager_8cpp.html#a584e604af9487eb59e887e23f1c6a34e" title="TissueAnalysis" alt="" coords="275,122,385,149"/>
+<area shape="rect" id="node6" href="$classkl_filter_functor.html#a35c45020d74c4dd91c743629d34a8e8b" title="klFilterFunctor::operator()" alt="" coords="246,173,414,199"/>
+<area shape="rect" id="node7" href="$classkl_fill_holes_functor.html#ade5bc2b1908646ce35bd808901a24b7c" title="klFillHolesFunctor\l::operator()" alt="" coords="267,224,393,265"/>
+<area shape="rect" id="node8" href="$classkl_rotate_functor.html#a363eca8f56465731311f2531499ddee0" title="klRotateFunctor::operator()" alt="" coords="241,290,419,317"/>
+<area shape="rect" id="node9" href="$classkl_p_c_a_functor.html#aed4583319b5cae6bff68c10a4d747420" title="klPCAFunctor::operator()" alt="" coords="247,341,413,367"/>
+<area shape="rect" id="node10" href="$kl_bigg_tiff_sub_dir_fns_8cpp.html#aef000c9231180d00709ad93d939c6783" title="klBiggTiffSubDirRotateImage" alt="" coords="237,391,423,418"/>
+<area shape="rect" id="node11" href="$kl_bigg_tiff_sub_dir_fns_8cpp.html#a2b5b2f833a12f319e7d52efee71a2f91" title="klBiggTiffSubDirMacroThumb" alt="" coords="236,442,424,469"/>
+<area shape="rect" id="node12" href="$kl_bigg_tiff_sub_dir_fns_8cpp.html#acca45ef1f8762c404573104efa1fe2d7" title="klBiggTiffSubDirMacro" alt="" coords="255,493,405,519"/>
+<area shape="rect" id="node13" href="$kl_bigg_tiff_sub_dir_fns_8cpp.html#ac20f2452855c2360c1cd1a65e5803366" title="klBiggTiffSubDirSlideImage" alt="" coords="241,543,419,570"/>
+<area shape="rect" id="node14" href="$kl_bigg_tiff_sub_dir_fns_8cpp.html#ae6ade62088d9298bcc32e3555cfd1116" title="klBiggTiffSubDirSlideImage_LT" alt="" coords="231,594,429,621"/>
+<area shape="rect" id="node15" href="$kl_bigg_tiff_sub_dir_fns_8cpp.html#adbd06f672c8c287be903f1adee8292cc" title="klBiggTiffSubDirROIToTissue\l_Ratio" alt="" coords="237,645,423,687"/>
+<area shape="rect" id="node4" href="$kl_big_tiff_file_manager_8cpp.html#a5cf514a760136e68606681595080ad46" title="klRunImageWorkFlowImage" alt="" coords="477,71,660,98"/>
+</map>
